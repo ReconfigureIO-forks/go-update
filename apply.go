@@ -12,7 +12,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/ReconfigureIO/go-update/internal/osext"
+	"github.com/ReconfigureIO-forks/go-update/internal/osext"
 )
 
 var (
